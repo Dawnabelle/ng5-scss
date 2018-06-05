@@ -1,27 +1,50 @@
-# Ng5Sass
+<!-- Twitter icon from https://github.com/carlsednaoui/gitsocial -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+# _ng5-scss_
 
-## Development server
+#### _Angular practice with Sass_
+_UI Week 3: Responsive Design and Preprocessors_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### **Dawn Mott** :sunrise_over_mountains: _June 5th, 2018_
 
-## Code scaffolding
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_Practice building an app using Angular 5 and SCSS_
+<div style="text-align:center"><img src="https://imgix.bustle.com/rehost/2016/9/13/9600aa5b-992d-4682-940c-8affc989d9c8.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70" alt="Beyone 711 video still, with her girls" width="300"></div>
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Specs
+_Just practice at the moment_
 
-## Running unit tests
+## Setup/Installation Requirements
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* _Install Angular CLI globally_
+* _Clone this repository_
+* _In a new tab, navigate to [this page](https://youtu.be/OSAOsm1u-OE)_
+* _Return to previous task_
+* _Run "npm install" in CLI_
+* _Run "ng build" in CLI_
+* _Run "ng serve --open" in CLI_
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<div style="text-align:center"><img src="https://imgix.bustle.com/lovelace/uploads/249/78d22db0-5614-0132-4214-0ebc4eccb42f.png?w=614&fit=max&auto=format&q=70" alt="Beyonce 711 video still, namaste" width="300"></div>
 
-## Further help
+## Known Bugs
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+_There are many known :bug: at this time, this is a work in progress_
+
+## Support and contact details
+
+_If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
+
+## Technologies Used
+
+_HTML, SCSS, Angular, and flattery_
+
+### License
+
+*This page is licensed under the MIT license*
+
+&copy; 2018 **Dawn Mott** :sunrise_over_mountains:
