@@ -1,2 +1,11 @@
 @@import './variables';
 @@import './mixins';
+
+// bootstrap base tools, ~ would bring in all 
+@import
+  'functions',
+  'variables',
+  'mixins',
+  'print',
+  'reboot',
+  'type';
