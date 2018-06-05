@@ -41,7 +41,7 @@ _If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
 
 ## Technologies Used
 
-_HTML, SCSS, Angular, and flattery_
+_HTML, SCSS, Bootstrap, Angular, and flattery_
 
 ### License
 

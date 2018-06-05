@@ -27,7 +27,10 @@
           "../node_modules/bootstrap/scss"
         ]
       },
-      "scripts": [],
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scss": "node-sass --watch scss -o css"
+      },
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
